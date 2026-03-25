@@ -1,0 +1,9 @@
+# Ignore Python junk files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+env/
+.env
