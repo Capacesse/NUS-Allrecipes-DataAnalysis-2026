@@ -2,5 +2,5 @@ pandas
 matplotlib
 seaborn
 jupyter
-geopandas # Extension of pandas for geography and plotting maps
-pycountry # To standardise country names to match the map
+numpy
+scipy
